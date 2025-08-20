@@ -1,0 +1,1 @@
+![[kondensatory_dielektryki.pdf]]
