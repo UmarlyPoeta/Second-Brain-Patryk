@@ -1,0 +1,1 @@
+![[prazki_newtona.pdf]]

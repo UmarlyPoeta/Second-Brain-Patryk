@@ -1,22 +1,86 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Fizyka_egzamin/FIZYKA JĄDROWA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Fizyka_egzamin/FIZYKA KWANTOWA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Fizyka_egzamin/OPTYKA  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:ELEKTRONIKA  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "file:NOTATKI",
+      "color": {
+        "a": 1,
+        "rgb": 13958912
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 0.840104166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.135416666666667,
+  "repelStrength": 6.97916666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224442,
+  "linkDistance": 140,
+  "scale": 0.36288736930122567,
   "close": true
 }

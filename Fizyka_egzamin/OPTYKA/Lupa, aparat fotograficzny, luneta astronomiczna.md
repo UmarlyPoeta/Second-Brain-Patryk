@@ -1,0 +1,1 @@
+![[lupa_aparat_luneta.pdf]]

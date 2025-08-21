@@ -1,0 +1,2 @@
+![[rc_obwod.pdf]]
+

@@ -1,0 +1,1 @@
+![[fala_elektromagnetyczna.pdf]]

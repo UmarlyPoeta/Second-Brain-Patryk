@@ -1,5 +1,4 @@
-[[Random Numbers and Probability]]
-[[Summary Statistics DataCamp]]
+
 
 When you left 16 hours ago, you worked on Random Numbers and Probability, chapter 2 of the course Introduction to Statistics in Python. Here is what you covered in your last lesson:
 

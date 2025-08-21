@@ -2,12 +2,7 @@
 
 _Introduction to Statistics in Python_
 
-**Powiązane notatki:**
 
-- [[Random Numbers and Probability]]
-    
-- [[Summary Statistics DataCamp]]
-    
 
 ---
 

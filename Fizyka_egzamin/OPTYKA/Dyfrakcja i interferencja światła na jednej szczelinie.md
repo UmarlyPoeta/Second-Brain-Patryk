@@ -1,0 +1,1 @@
+![[dyfrakcja_jeden.pdf]]

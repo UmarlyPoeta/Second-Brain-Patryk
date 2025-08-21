@@ -1,0 +1,1 @@
+![[natezenie_strumien_oswietlenie.pdf]]

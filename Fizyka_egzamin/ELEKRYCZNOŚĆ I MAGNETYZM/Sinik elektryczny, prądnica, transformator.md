@@ -1,0 +1,2 @@
+
+![[silnik_elektryczny.pdf]]

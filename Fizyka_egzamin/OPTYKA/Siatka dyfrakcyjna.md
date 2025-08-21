@@ -1,0 +1,1 @@
+![[siatka_dyfrakcyjna.pdf]]

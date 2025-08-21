@@ -1,0 +1,1 @@
+![[sila_przewodnik.pdf]]
