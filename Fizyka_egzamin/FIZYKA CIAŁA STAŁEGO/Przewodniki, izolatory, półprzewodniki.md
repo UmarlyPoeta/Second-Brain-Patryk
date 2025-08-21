@@ -1,0 +1,1 @@
+![[przewodniki_izolatory_polprzewod.pdf]]

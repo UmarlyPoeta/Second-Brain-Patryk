@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c5bf1a0143f3300",
+        "id": "64f49fa988863fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "0b39a5521097b501",
+            "id": "77cd2c8da2ee8ec5",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8c7847d604991772",
@@ -188,54 +187,54 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "0b39a5521097b501",
+  "active": "77cd2c8da2ee8ec5",
   "lastOpenFiles": [
-    "DATA SCIENCE + AI/Datacamp.canvas",
-    "DATA SCIENCE + AI/DATACAMP.md",
-    "Data Cleaning and Imputation.md",
-    "Fizyka_egzamin/OPTYKA/Polaryzacja światła przy odbiciu, prawo Brewstera.md",
-    "Fizyka_egzamin/FIZYKA JĄDROWA/FIZYKA JĄDROWA.md",
     "Fizyka_egzamin/FIZYKA JĄDROWA/Reakcje rozszczepienia i syntezy jąder - zastosowanie do produkcji energii.md",
+    "Fizyka_egzamin/pdfs/reakcje_rozszczepienia.pdf",
     "Fizyka_egzamin/FIZYKA JĄDROWA/Rozpady jądrowe.md",
+    "Fizyka_egzamin/pdfs/rozpady_jądrowe.pdf",
     "Fizyka_egzamin/FIZYKA JĄDROWA/Budowa jądra atomowego, defekt masy.md",
+    "Fizyka_egzamin/pdfs/budowa_jądra_atomowego.pdf",
     "Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE/Klasyfikacja ciał ze względu na własności magnetyczne.md",
-    "Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE/WŁASNOŚCI MAGNETYCZNE.md",
-    "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/FIZYKA CIAŁA STAŁEGO.md",
+    "Fizyka_egzamin/pdfs/Wlasnosci magnetyczne.pdf",
     "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/Nadprzewodniki.md",
+    "Fizyka_egzamin/imgs/Pasted image 20250822000812.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250822000758.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250822000723.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250822000708.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250822000654.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250822000640.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250822000623.png",
     "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/Zastosowania półprzewodników, przyrządy półprzewodnikowe.md",
+    "Fizyka_egzamin/pdfs/polprzewodniki_przyrzady.pdf",
     "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/Przewodniki, izolatory, półprzewodniki.md",
+    "Fizyka_egzamin/pdfs/przewodniki_izolatory_polprzewod.pdf",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Układ okresowy pierwiastków.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/FIZYKA KWANTOWA.md",
-    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
-    "Fizyka_egzamin/FIZYKA JĄDROWA",
-    "Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE",
-    "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO",
+    "Fizyka_egzamin/pdfs/uklad_okresowy.pdf",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Liczby kwantowe atomu wodoru i ich znaczenie fizyczne.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Cząstka w studni potencjału.md",
+    "Fizyka_egzamin/pdfs/wodor.pdf",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Równanie Schrödingera; własności funkcji falowej.md",
+    "Fizyka_egzamin/pdfs/schrodinger.pdf",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Relacja nieoznaczoności.md",
+    "Fizyka_egzamin/pdfs/nieoznaczonosci.pdf",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Falowo- korpuskularne własności materii (hipoteza de Broglie'a) oraz promieniowania.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Model atomu Bohra.md",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Efekt fotoelektryczny.md",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Promieniowanie termiczne; prawo Stefana-Boltzmanna oraz przesunięć Wiena; teoria Plancka.md",
-    "Fizyka_egzamin/OPTYKA/Natężenie, strumień światła, oświetlenie.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA",
-    "Fizyka_egzamin/pdfs/natezenie_strumien_oswietlenie.pdf",
-    "Fizyka_egzamin/pdfs/zalamanie_podwojne.pdf",
-    "Fizyka_egzamin/pdfs/brewster.pdf",
-    "Fizyka_egzamin/pdfs/prazki_newtona.pdf",
-    "Fizyka_egzamin/pdfs/siatka_dyfrakcyjna.pdf",
-    "Fizyka_egzamin/pdfs/dyfrakcja_jeden.pdf",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/FIZYKA KWANTOWA.md",
+    "DATA SCIENCE + AI/ML_basics.md",
+    "DATA SCIENCE + AI/DATACAMP.md",
+    "NOTATKI.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RLC z wymuszeniem; Rezonans.md",
+    "DATA SCIENCE + AI/Datacamp.canvas",
+    "DATA SCIENCE + AI/Data Cleaning and Imputation.md",
+    "Fizyka_egzamin/OPTYKA/Polaryzacja światła przy odbiciu, prawo Brewstera.md",
+    "Fizyka_egzamin/FIZYKA JĄDROWA/FIZYKA JĄDROWA.md",
+    "Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE/WŁASNOŚCI MAGNETYCZNE.md",
+    "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/FIZYKA CIAŁA STAŁEGO.md",
+    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
     "Fizyka_egzamin/imgs/Pasted image 20250820164644.png",
     "Fizyka_egzamin/imgs/Pasted image 20250820164626.png",
     "Fizyka_egzamin/imgs/Pasted image 20250820164604.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250820164543.png",
-    "Fizyka_egzamin/Fizyka Egzamin.canvas",
-    "Fizyka_egzamin/imgs/Pasted image 20250820154540.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250820154512.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250820154457.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250820154446.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250820154414.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250820154402.png"
+    "Fizyka_egzamin/Fizyka Egzamin.canvas"
   ]
 }

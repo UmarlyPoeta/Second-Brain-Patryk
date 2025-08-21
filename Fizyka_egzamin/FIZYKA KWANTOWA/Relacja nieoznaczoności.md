@@ -1,0 +1,1 @@
+![[nieoznaczonosci.pdf]]

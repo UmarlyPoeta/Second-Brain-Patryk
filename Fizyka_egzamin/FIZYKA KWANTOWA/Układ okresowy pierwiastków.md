@@ -1,0 +1,1 @@
+![[uklad_okresowy.pdf]]
