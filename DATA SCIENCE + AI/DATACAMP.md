@@ -17,3 +17,6 @@
 [[Datacamp.canvas|Datacamp]]
 
 [[Data Cleaning and Imputation]]
+
+[[The Roadmap of Mathematics for Machine Learning]]
+
