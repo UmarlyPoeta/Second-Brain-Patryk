@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 13958912
       }
+    },
+    {
+      "query": "path:\"ARCHITEKTURY KOMPUTERÓW\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9822143
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.25883865621817453,
+  "scale": 0.258838656218178,
   "close": true
 }

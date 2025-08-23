@@ -1,0 +1,10 @@
+{
+	"id": "jupymd",
+	"name": "JupyMD",
+	"version": "1.3",
+	"minAppVersion": "1.8.4",
+	"description": "Use Jupyter notebooks in Obsidian.",
+	"author": "Deniz Terzioglu",
+	"authorUrl": "https://d-eniz.github.io/",
+	"isDesktopOnly": true
+}

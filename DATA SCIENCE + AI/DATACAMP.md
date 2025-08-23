@@ -20,3 +20,19 @@
 
 [[The Roadmap of Mathematics for Machine Learning]]
 
+[[Handling outliers in dataset]]
+
+[[Patterns over time]]
+
+[[Correlation]]
+
+[[Factor relationships and distributions]]
+
+[[Considerations for categorical data]]
+
+
+
+
+
+
+
