@@ -1,1 +1,1 @@
-![[opor_temp_ohm.pdf]]
+ ![[opor_temp_ohm.pdf]]

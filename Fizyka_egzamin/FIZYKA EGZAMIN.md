@@ -9,3 +9,7 @@
 [[WŁASNOŚCI MAGNETYCZNE]]
 
 [[FIZYKA JĄDROWA]]
+
+[[Zadania z fizyki]]
+
+

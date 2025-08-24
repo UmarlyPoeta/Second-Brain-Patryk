@@ -11,14 +11,10 @@
             "id": "a8d17ca12d146851",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Coulomba i Gaussa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prawa Coulomba i Gaussa"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,7 +189,18 @@
   },
   "active": "a8d17ca12d146851",
   "lastOpenFiles": [
+    "README.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury.md",
+    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
+    "Fizyka_egzamin/Zadania z fizyki.md",
+    "Fizyka_egzamin/pdfs/zadania baza full.pdf",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Definicja pojemności elektrycznej, kondensator płaski, łączenie kondensatorów.md",
     "DATA SCIENCE + AI/Datacamp.canvas",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Związek między potencjałem a natężeniem pola elektrycznego + dowod.md",
+    "Fizyka_egzamin/imgs/Pasted image 20250823203025.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250823202303.png",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Coulomba i Gaussa.md",
     "DATA SCIENCE + AI/Random Numbers and Probability.md",
     "DATA SCIENCE + AI/The Roadmap of Mathematics for Machine Learning.md",
     "DATA SCIENCE + AI/Titanic - Machine Learning from Disaster First Try.md",
@@ -210,8 +217,6 @@
     "DATA SCIENCE + AI/pdfs",
     "DATA SCIENCE + AI/pdfs/chapter3.pdf",
     "DATA SCIENCE + AI/NOTATKI.md",
-    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Coulomba i Gaussa.md",
     "Fizyka_egzamin/imgs/Pasted image 20250823143114.png",
     "Fizyka_egzamin/imgs/Pasted image 20250823143050.png",
     "Fizyka_egzamin/imgs/Pasted image 20250823143014.png",
@@ -229,16 +234,8 @@
     "ARCHITEKTURY KOMPUTERÓW/x87.md",
     "ARCHITEKTURY KOMPUTERÓW/pdfs/x87.pdf",
     "ARCHITEKTURY KOMPUTERÓW/Lab 9.md",
-    "ARCHITEKTURY KOMPUTERÓW/Teoria.md",
-    "ARCHITEKTURY KOMPUTERÓW/pdfs/AK_FPU.pdf",
-    "ARCHITEKTURY KOMPUTERÓW/Lab 5.md",
-    "ARCHITEKTURY KOMPUTERÓW/ramka stosu i linkowanie dynamiczne.md",
-    "ARCHITEKTURY KOMPUTERÓW/Lab 6-7.md",
-    "ARCHITEKTURY KOMPUTERÓW/Biblioteki statyczne i dynamiczne współdzielone, stos.md",
     "DATA SCIENCE + AI/imgs/Pasted image 20250823132803.png",
     "DATA SCIENCE + AI/imgs/Pasted image 20250823132753.png",
-    "DATA SCIENCE + AI/imgs/Pasted image 20250823132927.png",
-    "DATA SCIENCE + AI/imgs/Pasted image 20250823132913.png",
     "Fizyka_egzamin/Fizyka Egzamin.canvas"
   ]
 }

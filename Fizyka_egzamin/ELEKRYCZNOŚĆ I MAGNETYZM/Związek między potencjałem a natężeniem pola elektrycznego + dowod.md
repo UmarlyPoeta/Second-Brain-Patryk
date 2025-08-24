@@ -1,3 +1,6 @@
+![[Pasted image 20250823203025.png]]
+
+
 ![[potencjal_natezenie_pola.pdf]]
 
 
@@ -40,4 +43,3 @@ oraz
 
 ![[Pasted image 20250820154140.png]]
 
-Jeśli chcesz, mogę dorzucić „ściągę” z najczęstszymi pułapkami znaków i przykładowymi zadaniami rachunkowymi (np. przewodnik kulisty, linia ładunku, dipol) — wszystko w jednym PDF-ie.

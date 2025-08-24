@@ -1,3 +1,7 @@
+
+![[Pasted image 20250823202303.png]]
+
+
 [[Prawa Coulomba i Gaussa]]
 
 [[Związek między potencjałem a natężeniem pola elektrycznego + dowod]]
