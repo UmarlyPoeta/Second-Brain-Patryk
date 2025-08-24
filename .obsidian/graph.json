@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM\"  ",
@@ -83,6 +83,34 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES/Algorithms\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES/Complexity Analysis\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES/Data Structures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +123,6 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.5087618855792984,
+  "scale": 0.18462326225859751,
   "close": true
 }
