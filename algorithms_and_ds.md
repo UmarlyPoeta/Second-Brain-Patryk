@@ -19,6 +19,7 @@
 - [[Hash Tables]] - Hash maps and collision resolution
 - [[Graphs]] - Graph representation and basic operations
 - [[Tries]] - Prefix trees for string operations
+- [[Deques]] - Double-ended queues
 
 ## 🔍 Algorithms
 
@@ -105,5 +106,5 @@ This collection includes implementations in:
 
 ---
 
-*Last updated: 2024-01-XX*
-*Total notes: 35+*
+*Last updated: 2024-12-19*
+*Total notes: 22*
