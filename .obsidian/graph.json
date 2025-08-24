@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 9822143
       }
+    },
+    {
+      "query": "path:\"RZEŹBA W DREWNIE\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +95,6 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.3628873693012366,
+  "scale": 0.5087618855792984,
   "close": true
 }

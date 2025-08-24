@@ -22,19 +22,15 @@ Witaj w sekcji poświęconej sztuce rzeźby w drewnie - jednej z najstarszych fo
 
 [[Młotki i młoteczki]]
 
-[[Narzędzia pomocnicze]]
-
 ## 🌲 Rodzaje Drewna
 
 [[Właściwości drewna do rzeźby]]
 
 [[Drewno miękkie - sosna i świerk]]
 
-[[Drewno twarde - dąb i buk]]
 
 [[Drewno lipowe]]
 
-[[Drewno orzechowe]]
 
 ## ✋ Techniki
 
@@ -42,7 +38,6 @@ Witaj w sekcji poświęconej sztuce rzeźby w drewnie - jednej z najstarszych fo
 
 [[Rzeźba płaskorzeźbiarska]]
 
-[[Rzeźba wypukła]]
 
 [[Whittling - strugarstwo]]
 
@@ -52,17 +47,12 @@ Witaj w sekcji poświęconej sztuce rzeźby w drewnie - jednej z najstarszych fo
 
 [[Projekty dla początkujących]]
 
-[[Projekty średnio zaawansowane]]
-
-[[Projekty zaawansowane]]
-
 ## 🎨 Wykończenie
 
 [[Szlifowanie i wygładzanie]]
 
 [[Lakierowanie i olejowanie]]
 
-[[Bejcowanie drewna]]
 
 ---
 

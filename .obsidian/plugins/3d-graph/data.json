@@ -14,7 +14,7 @@
   "display": {
     "nodeSize": 6,
     "linkThickness": 8,
-    "particleSize": 4,
-    "particleCount": 4
+    "particleSize": 13,
+    "particleCount": 6
   }
 }
