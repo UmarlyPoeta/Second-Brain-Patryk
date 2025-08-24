@@ -103,8 +103,3 @@ This collection includes implementations in:
 2. Study advanced graph algorithms: [[Dijkstra Algorithm]], [[Minimum Spanning Tree]]
 3. Deep dive into [[Dynamic Programming]] problems
 4. Learn [[String Algorithms]] and [[Advanced Algorithms]]
-
----
-
-*Last updated: 2024-12-19*
-*Total notes: 22*

@@ -16,7 +16,9 @@ Natężenie prądu to miara przepływu ładunku elektrycznego przez przekrój pr
     
 - Kierunek: umowny prąd płynie od + do – (przeciwnie do ruchu elektronów).
     
+$$
 - Zależność: I=dQdtI = \frac{dQ}{dt}
+$$
     
 
 **Wzory**
