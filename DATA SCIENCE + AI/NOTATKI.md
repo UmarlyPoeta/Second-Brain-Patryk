@@ -1,5 +1,7 @@
 [[DATACAMP]]
 
+[[algorithms_and_ds]]
+
 [[ELEKTRONIKA]]
 
 [[FIZYKA EGZAMIN]]
