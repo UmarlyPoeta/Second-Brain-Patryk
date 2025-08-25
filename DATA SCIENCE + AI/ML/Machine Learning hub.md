@@ -1,0 +1,12 @@
+# Machine learning notes
+- [[Machine Learning Pipeline - Preprocessing]]
+- [[The Roadmap of Mathematics for Machine Learning]]
+- [[Scikit-learn - Podstawy i Pipeline]]
+- [[Scikit-learn - StandardScaler - Standardyzacja danych]]
+- [[Scikit-learn - train_test_split() - Podział danych na zbiory]]
+- [[Cross Validation Techniques]]
+- [[Regression Algorithms - Comprehensive Guide]]
+- [[Feature Engineering - Podstawy]]
+- [[Model Evaluation i Metrics]]
+- [[Classification Algorithms - Comprehensive Guide]]
+- 

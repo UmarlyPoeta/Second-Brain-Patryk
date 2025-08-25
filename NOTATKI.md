@@ -1,4 +1,4 @@
-[[DATACAMP]]
+[[DATASCIENCE + AI]]
 
 [[algorithms_and_ds]]
 

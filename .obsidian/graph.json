@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:\"DATA SCIENCE + AI\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "path:\"Fizyka_egzamin/FIZYKA JĄDROWA\"  ",
       "color": {
         "a": 1,
@@ -111,6 +104,55 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI/Numpy\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4587330
+      }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI/EDA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15498259
+      }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI/Pandas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11206850
+      }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI/Datacamp\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9961729
+      }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI/ML\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15231080
+      }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI/MATH\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16732823
+      }
+    },
+    {
+      "query": "path:\"DATA SCIENCE + AI/VISUALIZATION\" path:",
+      "color": {
+        "a": 1,
+        "rgb": 12577566
+      }
     }
   ],
   "collapse-display": false,
@@ -123,6 +165,6 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.25883865621819113,
+  "scale": 0.13168724279838,
   "close": true
 }

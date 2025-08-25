@@ -1,0 +1,18 @@
+# Pandas notes
+
+- [[Pandas - Wprowadzenie do DataFrame]]
+- [[Pandas - Operacje na danych]]
+- [[Pandas - Merge i Join]]
+- [[Pandas - GroupBy Operations]]
+- [[Pandas - Time Series Analysis]]
+- [[Pandas - Performance Optimization]]
+- [[Pandas - Custom Functions i Apply]]
+- [[Pandas Advanced merging and concat]]
+- [[Pandas - Advanced Indexing i MultiIndex]]
+- [[Pandas - IO Operations (Reading Writing Files)]]
+- [[Pandas - DataFrame.value_counts() - Zliczanie wartości]]
+- [[Pandas - DataFrame.loc[] - Selekcja oparta na etykietach]]
+- [[Pandas - DataFrame.iloc[] - Selekcja oparta na pozycjach]]
+- [[Pandas - DataFrame.drop_duplicates() - Usuwanie duplikatów]]
+- [[Pandas - DataFrame.fillna() - Wypełnianie brakujących wartości]]
+- [[Pandas - DataFrame.pivot_table() - Tworzenie tabel przestawnych]]
