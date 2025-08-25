@@ -1,4 +1,5 @@
  ![[opor_temp_ohm.pdf]]
+ 
 
 ---
 
@@ -130,6 +131,20 @@ Mikroskopowa postać prawa Ohma opisuje zależność między gęstością prądu
 
 **Wzory**
 ![[Pasted image 20250824144959.png]]
+
+### Podsumowanie
+
+- **Poprawny wzór:**  
+$$
+     E = j \cdot \rho 
+$$
+- **Niepoprawny wzór:**  
+$$
+     j = E \cdot \rho 
+$$
+
+**Warto zapamiętać:**  
+Oporność właściwa „utrudnia” przepływ prądu — im większa, tym większe pole elektryczne potrzeba, żeby uzyskać daną gęstość prądu.
 
 **Kluczowe pojęcia**
 
