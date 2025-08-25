@@ -19,6 +19,10 @@ gdzie:
 
 👉 **1 farad (1 F)** to pojemność przewodnika, który przy napięciu 1 V gromadzi ładunek 1 C.
 
+
+![[Recording 20250825232408.m4a]]
+
+
 ---
 
 ## Kondensator płaski
@@ -79,3 +83,6 @@ $$
 - **Kondensator płaski**: \(C = \varepsilon \frac{S}{d}\).  
 - **Równoległe łączenie** → sumowanie pojemności.  
 - **Szeregowe łączenie** → sumowanie odwrotności pojemności.
+
+
+![[Recording 20250825231659.m4a]]

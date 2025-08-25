@@ -1,0 +1,38 @@
+{
+  "nodePath": "/usr/bin/node",
+  "nodePathUpdatedToNode20": true,
+  "enabled": true,
+  "hotkeys": {
+    "accept": "Tab",
+    "cancel": "Escape",
+    "request": "Cmd-Shift-/",
+    "partial": "Cmd-Shift-.",
+    "next": "Cmd-Shift-ArrowDown",
+    "disable": "Cmd-Shift-ArrowRight"
+  },
+  "suggestionDelay": 500,
+  "debug": false,
+  "onlyOnHotkey": false,
+  "onlyInCodeBlock": false,
+  "exclude": [],
+  "deviceSpecificSettings": [
+    "nodePath"
+  ],
+  "useDeviceSpecificSettings": false,
+  "proxy": "",
+  "chatSettings": {
+    "deviceCode": null,
+    "pat": null,
+    "accessToken": {
+      "token": null,
+      "expiresAt": null
+    },
+    "selectedModel": {
+      "label": "GPT-4.1",
+      "value": "gpt-4.1-2025-04-14"
+    }
+  },
+  "systemPrompt": "You are GitHub Copilot, an AI assistant. You are helping a computer science in engineering student on making his second brain vault in obsidian.",
+  "invertEnterSendBehavior": false,
+  "extraCACerts": ""
+}

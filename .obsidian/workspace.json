@@ -11,24 +11,17 @@
             "id": "53913fc8bd8c3a08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "0524ac6a1b924e38",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,6 +167,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e62929c2f21a22d3",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
         "currentTab": 5
@@ -199,32 +202,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e807a68bb5ffa660",
+  "active": "106781507b382b72",
   "lastOpenFiles": [
+    "Fizyka_egzamin/pdfs/Recording 20250825232408.m4a",
+    "Fizyka_egzamin/pdfs/Recording 20250825231659.m4a",
+    "Fizyka_egzamin/pdfs/Recording 20250825223144.m4a",
+    "Fizyka_egzamin/pdfs/Recording 20250825222847.m4a",
+    "Fizyka_egzamin/imgs/Pasted image 20250825232822.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250825214716.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250825214635.png",
+    "NOTATKI.md",
+    "Java + Webdevelopment/pdfs + mp4/consuming_restful_serv_with_axios.mp4",
     "Java + Webdevelopment/pdfs + mp4",
     "Java + Webdevelopment/Web Development.md",
-    "Consuming APIs on the frontend.md",
-    "NOTATKI.md",
-    "README.md",
-    "Java + Webdevelopment/Consuming RESTful services with Axios.md",
-    "Java + Webdevelopment/pdfs + mp4/consuming_restful_serv_with_axios.mp4",
     "Java + Webdevelopment/JAVA.md",
+    "Java + Webdevelopment/Consuming RESTful services with Axios.md",
     "Java + Webdevelopment",
-    "consuming_restful_serv_with_axios.tVeouZvE.mp4.part",
-    "ELEKTRONIKA/Baterie LiPo.md",
-    "ELEKTRONIKA/embedded_systems/embedded_systems_index.md",
-    "ELEKTRONIKA/embedded_systems/arduino_podstawy.md",
-    "ELEKTRONIKA/arduino_rpi_lab_notes.md",
-    "ELEKTRONIKA/embedded_systems/sensory_i_aktuatory.md",
-    "ELEKTRONIKA/embedded_systems/raspberry_pi.md",
-    "ELEKTRONIKA/embedded_systems/protokoly_komunikacyjne.md",
-    "ELEKTRONIKA/embedded_systems/mikrokontrolery_vs_mikroprocesory.md",
-    "ELEKTRONIKA/embedded_systems/memory_management.md",
-    "ELEKTRONIKA/embedded_systems/projekty_i_cwiczenia.md",
-    "ELEKTRONIKA/embedded_systems/io_cyfrowe_analogowe.md",
-    "ELEKTRONIKA/embedded_systems/embedded_programming.md",
-    "ELEKTRONIKA/embedded_systems",
+    "Consuming APIs on the frontend.md",
+    "Fizyka_egzamin/pdfs/opor_temp_ohm.pdf",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
+    "Fizyka_egzamin/Zadania z fizyki.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Definicja pojemności elektrycznej, kondensator płaski, łączenie kondensatorów.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Związek między potencjałem a natężeniem pola elektrycznego + dowod.md",
+    "Recording 20250825222804.m4a",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Coulomba i Gaussa.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Untitled.canvas",
+    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
+    "DATA SCIENCE + AI/MATH/LINEAR ALGEBRA.md",
+    "DATA SCIENCE + AI/MATH/The Roadmap of Mathematics for Machine Learning.md",
+    "DATA SCIENCE + AI/MATH/CALCULUS.md",
+    "ELEKTRONIKA/embedded_systems/arduino_podstawy.md",
+    "ELEKTRONIKA/embedded_systems/embedded_systems_index.md",
     "DATA SCIENCE + AI/EDA/EDA hub.md",
     "DATA SCIENCE + AI/EDA/Kaggle - Missing Data.md",
     "DATA SCIENCE + AI/imgs/UWOyg4a.png",
@@ -234,20 +243,14 @@
     "DATA SCIENCE + AI/EDA/Data Cleaning - Missing Values.md",
     "DATA SCIENCE + AI/Pandas/Pandas - DataFrame.drop_duplicates() - Usuwanie duplikatów.md",
     "DATA SCIENCE + AI/Pandas/Pandas - Performance Optimization.md",
+    "🧮 ALGORITHMS AND DATA STRUCTURES/algorithms_and_ds.md",
+    "DATA SCIENCE + AI/MATH/Probability theory.md",
     "DATA SCIENCE + AI/VISUALIZATION",
-    "DATA SCIENCE + AI/MATH",
-    "DATA SCIENCE + AI/ML",
-    "DATA SCIENCE + AI/Datacamp",
-    "DATA SCIENCE + AI/Pandas",
-    "DATA SCIENCE + AI/EDA",
     "Fizyka_egzamin/imgs/Pasted image 20250824145011.png",
     "Fizyka_egzamin/imgs/Pasted image 20250824144959.png",
     "Fizyka_egzamin/imgs/Pasted image 20250824144908.png",
     "Fizyka_egzamin/imgs/Pasted image 20250824144539.png",
     "DATA SCIENCE + AI/Datacamp/Datacamp.canvas",
-    "Fizyka_egzamin/imgs/Pasted image 20250823203025.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250823202303.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250823143114.png",
     "Fizyka_egzamin/Fizyka Egzamin.canvas"
   ]
 }

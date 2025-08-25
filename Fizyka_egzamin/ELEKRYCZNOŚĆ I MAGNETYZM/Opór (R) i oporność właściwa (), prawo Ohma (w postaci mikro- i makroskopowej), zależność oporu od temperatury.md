@@ -1,5 +1,4 @@
  ![[opor_temp_ohm.pdf]]
-Świetnie 👍 — przerobiłem notatki na **wersję polską** w formacie pasującym do Obsidiana (z linkami między notatkami).
 
 ---
 
@@ -95,6 +94,8 @@ $$
 ---
 
 ### 📓 `Prawo Ohma – postać makroskopowa`
+
+![[Pasted image 20250825232822.png]]
 
 **Definicja**  
 Prawo Ohma mówi, że natężenie prądu w przewodniku jest proporcjonalne do przyłożonego napięcia i odwrotnie proporcjonalne do oporu.

@@ -165,6 +165,10 @@
   "repelStrength": 6.97916666666667,
   "linkStrength": 1,
   "linkDistance": 140,
+<<<<<<< HEAD
   "scale": 0.13168724279838237,
+=======
+  "scale": 1.0955286681046157,
+>>>>>>> 523484e (vault backup: 2025-08-25 23:45:24)
   "close": true
 }
