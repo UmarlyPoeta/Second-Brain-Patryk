@@ -4,7 +4,8 @@
 
 [[ELEKTRONIKA]]
 
-[[arduino_rpi_lab_notes|Systemy Wbudowane - Arduino i Raspberry Pi]]
+## 🔧 Systemy Wbudowane
+[[arduino_rpi_lab_notes|📚 Kompendium Systemów Wbudowanych]] - *Kompleksowa wiedza o Arduino, Raspberry Pi i embedded*
 
 [[FIZYKA EGZAMIN]]
 
@@ -13,4 +14,3 @@
 [[RZEŹBA W DREWNIE]]
 
 [[README]]
-
