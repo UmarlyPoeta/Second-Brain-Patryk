@@ -11,6 +11,9 @@
 [[JAVA]]
 [[Web Development]]
 
+# Równania Różniczkowe
+[[🧮 Równania różniczkowe - Hub główny]]
+
 [[FIZYKA EGZAMIN]]
 
 [[ARCHITEKTURY KOMPUTERÓW]]

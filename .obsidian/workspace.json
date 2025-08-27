@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury.md",
+                "file": "DATA SCIENCE + AI/VISUALIZATION/Matplotlib - Podstawy wizualizacji.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury"
+              "title": "Matplotlib - Podstawy wizualizacji"
             }
           }
         ]
@@ -136,8 +136,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -174,6 +174,16 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
+            }
+          },
+          {
+            "id": "ac90e45fa3eb0bdc",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
@@ -202,41 +212,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "106781507b382b72",
+  "active": "53913fc8bd8c3a08",
   "lastOpenFiles": [
+    "DATA SCIENCE + AI/EDA/Data visual hub.md",
+    "DATA SCIENCE + AI/DATASCIENCE + AI.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/🧮 Równania różniczkowe - Hub główny.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Podstawowe pojęcia/Definicja równania różniczkowego.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Podstawowe pojęcia/Klasyfikacja równań różniczkowych.md",
+    "NOTATKI.md",
+    "rownania_differentialne.py",
+    "Java + Webdevelopment/Spring Security - Zaawansowane Techniki.md",
+    "Java + Webdevelopment/Spring Security - Podstawy Bezpieczeństwa.md",
+    "Java + Webdevelopment/Spring Data JPA - Zaawansowane Techniki.md",
+    "Java + Webdevelopment/Java Stream API - Pełny Przewodnik.md",
+    "Java + Webdevelopment/Java Składnia i Typy Danych.md",
+    "Java + Webdevelopment/Java REST API.md",
+    "Java + Webdevelopment/Java Podstawy.md",
+    "Java + Webdevelopment/Java Optional - Najlepsze Praktyki.md",
+    "Java + Webdevelopment/Java Kolekcje - Szczegółowe Omówienie.md",
+    "Java + Webdevelopment/Java JPA Hibernate.md",
+    "Java + Webdevelopment/Java JPA Hibernate - Mapowanie Relacji.md",
+    "Java + Webdevelopment/Java Interfejsy i Klasy Abstrakcyjne.md",
+    "Java + Webdevelopment/Java Generyki - Głębsze Zrozumienie.md",
+    "Java + Webdevelopment/Java Dziedziczenie i Polimorfizm.md",
+    "Java + Webdevelopment/JUnit 5 - Unit Testing.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Drugi rząd/Oscylator harmoniczny.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Zastosowania/Reakcje chemiczne.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Zastosowania/Przewodnictwo ciepła.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Zastosowania/Obwody elektryczne RLC.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Zastosowania/Modele wzrostu populacji.md",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Zastosowania",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Układy równań",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Podstawowe pojęcia",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Pierwszy rząd",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Metody numeryczne",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe/Drugi rząd",
+    "DATA SCIENCE + AI/MATH/Równania różniczkowe",
     "Fizyka_egzamin/pdfs/opor_temp_ohm.pdf",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
-    "Fizyka_egzamin/Zadania z fizyki.md",
     "Fizyka_egzamin/imgs/Pasted image 20250825232822.png",
-    "Fizyka_egzamin/Zadania z fizyki.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Definicja pojemności elektrycznej, kondensator płaski, łączenie kondensatorów.md",
     "Fizyka_egzamin/pdfs/Recording 20250825232408.m4a",
-    "Fizyka_egzamin/pdfs/Recording 20250825231659.m4a",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Związek między potencjałem a natężeniem pola elektrycznego + dowod.md",
-    "Fizyka_egzamin/pdfs/Recording 20250825223144.m4a",
-    "Fizyka_egzamin/pdfs/Recording 20250825222847.m4a",
-    "Recording 20250825222804.m4a",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Coulomba i Gaussa.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Untitled.canvas",
-    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
-    "DATA SCIENCE + AI/MATH/LINEAR ALGEBRA.md",
-    "DATA SCIENCE + AI/MATH/The Roadmap of Mathematics for Machine Learning.md",
-    "DATA SCIENCE + AI/MATH/CALCULUS.md",
-    "ELEKTRONIKA/embedded_systems/arduino_podstawy.md",
-    "ELEKTRONIKA/embedded_systems/embedded_systems_index.md",
-    "DATA SCIENCE + AI/EDA/EDA hub.md",
-    "DATA SCIENCE + AI/EDA/Kaggle - Missing Data.md",
     "DATA SCIENCE + AI/imgs/UWOyg4a.png",
     "DATA SCIENCE + AI/imgs/4BpnlPA.png",
     "DATA SCIENCE + AI/imgs/Sax80za.png",
-    "DATA SCIENCE + AI/VISUALIZATION/Seaborn - heatmap() - Mapy ciepła i korelacje.md",
-    "DATA SCIENCE + AI/EDA/Data Cleaning - Missing Values.md",
-    "DATA SCIENCE + AI/Pandas/Pandas - DataFrame.drop_duplicates() - Usuwanie duplikatów.md",
-    "DATA SCIENCE + AI/Pandas/Pandas - Performance Optimization.md",
-    "🧮 ALGORITHMS AND DATA STRUCTURES/algorithms_and_ds.md",
-    "DATA SCIENCE + AI/MATH/Probability theory.md",
-    "DATA SCIENCE + AI/VISUALIZATION",
     "Fizyka_egzamin/imgs/Pasted image 20250824145011.png",
     "Fizyka_egzamin/imgs/Pasted image 20250824144959.png",
     "Fizyka_egzamin/imgs/Pasted image 20250824144908.png",

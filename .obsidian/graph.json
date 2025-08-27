@@ -1,174 +1,72 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM\"  ",
+      "query": "path:\"ARCHITEKTURY KOMPUTERÓW\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Fizyka_egzamin/FIZYKA JĄDROWA\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:\"Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Fizyka_egzamin/FIZYKA KWANTOWA\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Fizyka_egzamin/OPTYKA  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "path:ELEKTRONIKA  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "file:NOTATKI",
-      "color": {
-        "a": 1,
-        "rgb": 13958912
-      }
-    },
-    {
-      "query": "path:\"ARCHITEKTURY KOMPUTERÓW\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9822143
-      }
-    },
-    {
-      "query": "path:\"RZEŹBA W DREWNIE\"  ",
+      "query": "path:\"DATA SCIENCE + AI\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES\"  ",
+      "query": "path:ELEKTRONIKA  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES/Algorithms\"  ",
+      "query": "path:Fizyka_egzamin  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES/Complexity Analysis\"  ",
+      "query": "path:\"RZEŹBA W DREWNIE\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES/Data Structures\"  ",
+      "query": "path:\"🧮 ALGORITHMS AND DATA STRUCTURES\"  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:\"DATA SCIENCE + AI/Numpy\"  ",
+      "query": "path:\"Java + Webdevelopment\"  ",
       "color": {
         "a": 1,
-        "rgb": 4587330
-      }
-    },
-    {
-      "query": "path:\"DATA SCIENCE + AI/EDA\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15498259
-      }
-    },
-    {
-      "query": "path:\"DATA SCIENCE + AI/Pandas\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11206850
-      }
-    },
-    {
-      "query": "path:\"DATA SCIENCE + AI/Datacamp\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 9961729
-      }
-    },
-    {
-      "query": "path:\"DATA SCIENCE + AI/ML\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15231080
-      }
-    },
-    {
-      "query": "path:\"DATA SCIENCE + AI/MATH\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16732823
-      }
-    },
-    {
-      "query": "path:\"DATA SCIENCE + AI/VISUALIZATION\" path:",
-      "color": {
-        "a": 1,
-        "rgb": 12577566
+        "rgb": 5395168
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.171875,
-  "lineSizeMultiplier": 0.840104166666667,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.135416666666667,
-  "repelStrength": 6.97916666666667,
+  "centerStrength": 0.385416666666667,
+  "repelStrength": 14.5833333333333,
   "linkStrength": 1,
-  "linkDistance": 140,
-<<<<<<< HEAD
-  "scale": 0.13168724279838237,
-=======
-  "scale": 1.0955286681046157,
->>>>>>> 523484e (vault backup: 2025-08-25 23:45:24)
+  "linkDistance": 30,
+  "scale": 0.131687242798356,
   "close": true
 }
