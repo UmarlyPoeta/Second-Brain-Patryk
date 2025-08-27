@@ -1,5 +1,7 @@
 [[Binomal Distributions]]
 
+[[Categorical data in pandas]]
+
 [[Summary Statistics DataCamp]]
 
 [[Normal Distribution]]

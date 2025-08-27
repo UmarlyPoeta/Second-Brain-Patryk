@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"ARCHITEKTURY KOMPUTERÓW\"  ",
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:\"Równania różniczkowe\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.385416666666667,
-  "repelStrength": 14.5833333333333,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.131687242798356,
+  "centerStrength": 0.458333333333333,
+  "repelStrength": 9.27083333333333,
+  "linkStrength": 0.473958333333333,
+  "linkDistance": 255,
+  "scale": 0.22920135941749356,
   "close": true
 }
