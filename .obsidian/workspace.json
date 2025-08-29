@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53913fc8bd8c3a08",
+            "id": "54ba5c930ef82cb7",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "3D-Graph"
+              "title": "Obwód RC, stała czasowa obwodu"
             }
           }
         ]
@@ -113,6 +117,25 @@
             }
           },
           {
+            "id": "020237bcccf83b93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obwód RC, stała czasowa obwodu"
+            }
+          },
+          {
             "id": "8aebaa66a796a6af",
             "type": "leaf",
             "state": {
@@ -134,24 +157,6 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "calendar"
-            }
-          },
-          {
-            "id": "020237bcccf83b93",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
             }
           },
           {
@@ -208,10 +213,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "53913fc8bd8c3a08",
+  "active": "106781507b382b72",
   "lastOpenFiles": [
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Natężenie, napięcie i moc prądu, analiza obwodów elektrycznych.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Przepływ prądu w elektrolitach; prawa elektrolizy.md",
     "Java + Webdevelopment/Java REST API.md",
