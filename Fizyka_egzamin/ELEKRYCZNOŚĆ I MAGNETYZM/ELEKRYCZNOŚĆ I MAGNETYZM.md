@@ -1,6 +1,10 @@
 
 ![[Pasted image 20250823202303.png]]
 
+## 📚 Ściąga egzaminacyjna
+[[fizyka_elektrycznosc|⚡ Fizyka - Elektryczność (Kompletna ściąga)]] - *Wszystkie tematy w jednym miejscu*
+
+---
 
 [[Prawa Coulomba i Gaussa]]
 
