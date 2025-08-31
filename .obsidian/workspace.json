@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Pole magnetyczne, siła Lorentza, siła działająca na przewodnik w polu magnetycznym.md",
+                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Ampera i Faradaya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pole magnetyczne, siła Lorentza, siła działająca na przewodnik w polu magnetycznym"
+              "title": "Prawa Ampera i Faradaya"
             }
           }
         ]
@@ -175,8 +175,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           },
           {
@@ -216,9 +216,30 @@
   "active": "106781507b382b72",
   "lastOpenFiles": [
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Ampera i Faradaya.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Siła działająca między dwoma przewodnikami z prądem.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Pole magnetyczne, siła Lorentza, siła działająca na przewodnik w polu magnetycznym.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Definicja pojemności elektrycznej, kondensator płaski, łączenie kondensatorów.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Fala elektromagnetyczna.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Równania Maxwella elektromagnetyzmu.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Napięcie i natężenie skuteczne oraz moc prądu sinusoidalnie zmiennego.md",
+    "Fizyka_egzamin/Zadania z egzaminów.md",
+    "Pasted image 20250831173418.png",
+    "Pasted image 20250831173412.png",
+    "Pasted image 20250831173358.png",
+    "Pasted image 20250831173351.png",
+    "Pasted image 20250831173302.png",
+    "Pasted image 20250831173250.png",
+    "Pasted image 20250831173241.png",
+    "Pasted image 20250831172827.png",
+    "Fizyka_egzamin/Zadania z fizyki.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RLC z wymuszeniem; Rezonans.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Sinik elektryczny, prądnica, transformator.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Przepływ prądu w elektrolitach; prawa elektrolizy.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Związek między potencjałem a natężeniem pola elektrycznego + dowod.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Natężenie, napięcie i moc prądu, analiza obwodów elektrycznych.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Przepływ prądu w elektrolitach; prawa elektrolizy.md",
     "Java + Webdevelopment/Java REST API.md",
     "Java + Webdevelopment/Java Web MVC.md",
     "Java + Webdevelopment/Spring Boot Web.md",
@@ -228,20 +249,7 @@
     "Java + Webdevelopment/JAVA.md",
     "DATA SCIENCE + AI/Datacamp/DATACAMP.md",
     "DATA SCIENCE + AI/Datacamp/Categorical data in pandas.md",
-    "DATA SCIENCE + AI/VISUALIZATION/Matplotlib - Podstawy wizualizacji.md",
-    "DATA SCIENCE + AI/EDA/Data visual hub.md",
-    "DATA SCIENCE + AI/DATASCIENCE + AI.md",
-    "Równania różniczkowe/🧮 Równania różniczkowe - Hub główny.md",
-    "Równania różniczkowe/Podstawowe pojęcia/Definicja równania różniczkowego.md",
-    "Równania różniczkowe/Podstawowe pojęcia/Klasyfikacja równań różniczkowych.md",
-    "NOTATKI.md",
     "rownania_differentialne.py",
-    "Java + Webdevelopment/Spring Security - Zaawansowane Techniki.md",
-    "Java + Webdevelopment/Spring Security - Podstawy Bezpieczeństwa.md",
-    "Java + Webdevelopment/Spring Data JPA - Zaawansowane Techniki.md",
-    "Java + Webdevelopment/Java Stream API - Pełny Przewodnik.md",
-    "Java + Webdevelopment/Java Składnia i Typy Danych.md",
-    "Java + Webdevelopment/Java Optional - Najlepsze Praktyki.md",
     "Równania różniczkowe/Zastosowania",
     "Równania różniczkowe/Układy równań",
     "Równania różniczkowe/Podstawowe pojęcia",
@@ -254,12 +262,6 @@
     "Fizyka_egzamin/pdfs/Recording 20250825232408.m4a",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Untitled.canvas",
     "DATA SCIENCE + AI/imgs/UWOyg4a.png",
-    "DATA SCIENCE + AI/imgs/4BpnlPA.png",
-    "DATA SCIENCE + AI/imgs/Sax80za.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250824145011.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250824144959.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250824144908.png",
-    "Fizyka_egzamin/imgs/Pasted image 20250824144539.png",
     "DATA SCIENCE + AI/Datacamp/Datacamp.canvas",
     "Fizyka_egzamin/Fizyka Egzamin.canvas"
   ]
