@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Ampera i Faradaya.md",
+                "file": "Fizyka_egzamin/fizyka_elektrycznosc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prawa Ampera i Faradaya"
+              "title": "fizyka_elektrycznosc"
             }
           }
         ]
@@ -213,8 +213,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "106781507b382b72",
+  "active": "54ba5c930ef82cb7",
   "lastOpenFiles": [
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Przepływ prądu w elektrolitach; prawa elektrolizy.md",
+    "Fizyka_egzamin/fizyka_elektrycznosc.md",
+    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Ampera i Faradaya.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Siła działająca między dwoma przewodnikami z prądem.md",
@@ -225,18 +228,17 @@
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Równania Maxwella elektromagnetyzmu.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Napięcie i natężenie skuteczne oraz moc prądu sinusoidalnie zmiennego.md",
     "Fizyka_egzamin/Zadania z egzaminów.md",
-    "Pasted image 20250831173418.png",
-    "Pasted image 20250831173412.png",
-    "Pasted image 20250831173358.png",
-    "Pasted image 20250831173351.png",
-    "Pasted image 20250831173302.png",
-    "Pasted image 20250831173250.png",
-    "Pasted image 20250831173241.png",
-    "Pasted image 20250831172827.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831173418.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831173412.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831173358.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831173351.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831173302.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831173250.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831173241.png",
+    "Fizyka_egzamin/imgs/Pasted image 20250831172827.png",
     "Fizyka_egzamin/Zadania z fizyki.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RLC z wymuszeniem; Rezonans.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Sinik elektryczny, prądnica, transformator.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Przepływ prądu w elektrolitach; prawa elektrolizy.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Związek między potencjałem a natężeniem pola elektrycznego + dowod.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Natężenie, napięcie i moc prądu, analiza obwodów elektrycznych.md",
@@ -247,8 +249,6 @@
     "Java + Webdevelopment/Java Zaawansowane.md",
     "Java + Webdevelopment/Java Podstawy.md",
     "Java + Webdevelopment/JAVA.md",
-    "DATA SCIENCE + AI/Datacamp/DATACAMP.md",
-    "DATA SCIENCE + AI/Datacamp/Categorical data in pandas.md",
     "rownania_differentialne.py",
     "Równania różniczkowe/Zastosowania",
     "Równania różniczkowe/Układy równań",
