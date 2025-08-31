@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "381d6a23df7a370e",
+        "id": "ef22a705c6c61c59",
         "type": "tabs",
         "children": [
           {
-            "id": "54ba5c930ef82cb7",
+            "id": "afc83199c8946a31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fizyka_egzamin/fizyka_elektrycznosc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fizyka_elektrycznosc"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -213,12 +209,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "54ba5c930ef82cb7",
+  "active": "afc83199c8946a31",
   "lastOpenFiles": [
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Przepływ prądu w elektrolitach; prawa elektrolizy.md",
-    "Fizyka_egzamin/fizyka_elektrycznosc.md",
+    "Fizyka_egzamin/ŚCIĄGA EGZAMINACYJNA.md",
     "Fizyka_egzamin/FIZYKA EGZAMIN.md",
+    "Fizyka_egzamin/OPTYKA/Prawo odbicia i załamania światła, całkowite wewnętrzne odbicie.md",
+    "Fizyka_egzamin/OPTYKA/OPTYKA.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Relacja nieoznaczoności.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Promieniowanie termiczne; prawo Stefana-Boltzmanna oraz przesunięć Wiena; teoria Plancka.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Model atomu Bohra.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Liczby kwantowe atomu wodoru i ich znaczenie fizyczne.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
+    "Fizyka_egzamin/fizyka_elektrycznosc.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Przepływ prądu w elektrolitach; prawa elektrolizy.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Prawa Ampera i Faradaya.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Siła działająca między dwoma przewodnikami z prądem.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Pole magnetyczne, siła Lorentza, siła działająca na przewodnik w polu magnetycznym.md",
@@ -242,13 +245,6 @@
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Związek między potencjałem a natężeniem pola elektrycznego + dowod.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Natężenie, napięcie i moc prądu, analiza obwodów elektrycznych.md",
-    "Java + Webdevelopment/Java REST API.md",
-    "Java + Webdevelopment/Java Web MVC.md",
-    "Java + Webdevelopment/Spring Boot Web.md",
-    "Java + Webdevelopment/Spring Boot Wprowadzenie.md",
-    "Java + Webdevelopment/Java Zaawansowane.md",
-    "Java + Webdevelopment/Java Podstawy.md",
-    "Java + Webdevelopment/JAVA.md",
     "rownania_differentialne.py",
     "Równania różniczkowe/Zastosowania",
     "Równania różniczkowe/Układy równań",

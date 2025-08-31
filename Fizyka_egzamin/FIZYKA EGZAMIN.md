@@ -64,6 +64,9 @@
 
 [[Zadania z egzaminów]] - *Zadania egzaminacyjne z poprzednich lat*
 
+[[ŚCIĄGA EGZAMINACYJNA]] - *Skrócone notatki do szybkiego powtórzenia przed egzaminem*
+
+
 
 
 
