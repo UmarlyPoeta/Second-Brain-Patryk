@@ -1,3 +1,6 @@
+![[Pasted image 20250901175834.png]]
+
+
 [[Prawo odbicia i załamania światła, całkowite wewnętrzne odbicie]]
 
 [[Powstawanie obrazu przy użyciu soczewki; równania]]

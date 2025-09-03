@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef22a705c6c61c59",
+        "id": "5bb3704e938f28ff",
         "type": "tabs",
         "children": [
           {
-            "id": "afc83199c8946a31",
+            "id": "76d70cad87221207",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka_egzamin/OPTYKA/Lupa, aparat fotograficzny, luneta astronomiczna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lupa, aparat fotograficzny, luneta astronomiczna"
             }
           }
         ]
@@ -209,12 +213,58 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "afc83199c8946a31",
+  "floating": {
+    "id": "efe72efde34a5eae",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b88d59fd561b1a48",
+        "type": "window",
+        "children": [
+          {
+            "id": "a715707b039c841d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "16b1191b15165397",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 383,
+        "y": 84,
+        "width": 600,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "76d70cad87221207",
   "lastOpenFiles": [
-    "Fizyka_egzamin/ŚCIĄGA EGZAMINACYJNA.md",
-    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
-    "Fizyka_egzamin/OPTYKA/Prawo odbicia i załamania światła, całkowite wewnętrzne odbicie.md",
     "Fizyka_egzamin/OPTYKA/OPTYKA.md",
+    "Fizyka_egzamin/OPTYKA/Powstawanie obrazu przy użyciu soczewki; równania.md",
+    "Fizyka_egzamin/OPTYKA/Prawo odbicia i załamania światła, całkowite wewnętrzne odbicie.md",
+    "Fizyka_egzamin/OPTYKA/Siatka dyfrakcyjna.md",
+    "Fizyka_egzamin/OPTYKA/Dyfrakcja i interferencja światła na jednej szczelinie.md",
+    "ARCHITEKTURY KOMPUTERÓW/ARCHITEKTURY KOMPUTERÓW.md",
+    "Fizyka_egzamin/OPTYKA/Dyfrakcja i interferencja światła na dwóch szczelinach. Położenie maksimów i minimów.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Równanie Schrödingera; własności funkcji falowej.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/FIZYKA KWANTOWA.md",
+    "Fizyka_egzamin/ŚCIĄGA EGZAMINACYJNA.md",
+    "Fizyka_egzamin/OPTYKA/Lupa, aparat fotograficzny, luneta astronomiczna.md",
+    "Fizyka_egzamin/imgs/Pasted image 20250901175834.png",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Falowo- korpuskularne własności materii (hipoteza de Broglie'a) oraz promieniowania.md",
+    "Fizyka_egzamin/OPTYKA/Natężenie, strumień światła, oświetlenie.md",
+    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Relacja nieoznaczoności.md",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Promieniowanie termiczne; prawo Stefana-Boltzmanna oraz przesunięć Wiena; teoria Plancka.md",
     "Fizyka_egzamin/FIZYKA KWANTOWA/Model atomu Bohra.md",
@@ -227,10 +277,6 @@
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Pole magnetyczne, siła Lorentza, siła działająca na przewodnik w polu magnetycznym.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Opór (R) i oporność właściwa (), prawo Ohma (w postaci mikro- i makroskopowej), zależność oporu od temperatury.md",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Definicja pojemności elektrycznej, kondensator płaski, łączenie kondensatorów.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Fala elektromagnetyczna.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Równania Maxwella elektromagnetyzmu.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Napięcie i natężenie skuteczne oraz moc prądu sinusoidalnie zmiennego.md",
-    "Fizyka_egzamin/Zadania z egzaminów.md",
     "Fizyka_egzamin/imgs/Pasted image 20250831173418.png",
     "Fizyka_egzamin/imgs/Pasted image 20250831173412.png",
     "Fizyka_egzamin/imgs/Pasted image 20250831173358.png",
@@ -239,12 +285,6 @@
     "Fizyka_egzamin/imgs/Pasted image 20250831173250.png",
     "Fizyka_egzamin/imgs/Pasted image 20250831173241.png",
     "Fizyka_egzamin/imgs/Pasted image 20250831172827.png",
-    "Fizyka_egzamin/Zadania z fizyki.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RLC z wymuszeniem; Rezonans.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Sinik elektryczny, prądnica, transformator.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Związek między potencjałem a natężeniem pola elektrycznego + dowod.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RC, stała czasowa obwodu.md",
-    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Natężenie, napięcie i moc prądu, analiza obwodów elektrycznych.md",
     "rownania_differentialne.py",
     "Równania różniczkowe/Zastosowania",
     "Równania różniczkowe/Układy równań",
@@ -257,7 +297,6 @@
     "Fizyka_egzamin/imgs/Pasted image 20250825232822.png",
     "Fizyka_egzamin/pdfs/Recording 20250825232408.m4a",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Untitled.canvas",
-    "DATA SCIENCE + AI/imgs/UWOyg4a.png",
     "DATA SCIENCE + AI/Datacamp/Datacamp.canvas",
     "Fizyka_egzamin/Fizyka Egzamin.canvas"
   ]
