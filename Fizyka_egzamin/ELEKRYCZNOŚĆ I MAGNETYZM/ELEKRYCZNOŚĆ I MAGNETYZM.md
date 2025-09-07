@@ -1,6 +1,16 @@
 
 ![[Pasted image 20250823202303.png]]
 
+![[Pasted image 20250905025311.png]]
+![[Pasted image 20250905025427.png]]
+![[Pasted image 20250905025551.png]]
+![[Pasted image 20250905025744.png]]
+![[Pasted image 20250905025823.png]]
+![[Pasted image 20250905025840.png]]
+![[Pasted image 20250905025929.png]]
+![[Pasted image 20250905025941.png]]
+
+
 ## 📚 Ściąga egzaminacyjna
 [[fizyka_elektrycznosc|⚡ Fizyka - Elektryczność (Kompletna ściąga)]] - *Wszystkie tematy w jednym miejscu*
 

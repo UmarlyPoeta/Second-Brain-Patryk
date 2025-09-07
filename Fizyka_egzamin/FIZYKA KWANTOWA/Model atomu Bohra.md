@@ -97,3 +97,5 @@ $$\oint p \, dq = nh$$
 **Atomy wodoropodobne (Z > 1):**
 $$r_n = \frac{n^2 a_0}{Z}$$
 $$E_n = -\frac{13,6 Z^2}{n^2} \text{ eV}$$
+
+

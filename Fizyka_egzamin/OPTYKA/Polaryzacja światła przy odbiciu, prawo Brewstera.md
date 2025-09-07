@@ -39,9 +39,9 @@ gdzie:
 
 Z prawa Snelliusa: $n_1 \sin α_B = n_2 \sin β$
 
-Warunek: α_B + β = 90° → β = 90° - α_B
+Warunek: $$α_B + β = 90° → β = 90° - α_B$$
 
-Zatem: $\sin β = \sin(90° - α_B) = \cos α_B$
+Zatem: $$\sin β = \sin(90° - α_B) = \cos α_B$$
 
 Podstawiając:
 $$n_1 \sin α_B = n_2 \cos α_B$$
