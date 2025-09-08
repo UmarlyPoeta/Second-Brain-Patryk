@@ -21,4 +21,7 @@
 
 [[Notebook Fizyka kwantowa-jądrowa]]
 
+[[Fundamentalny charakter falowej natury materii]]
+
+[[Notebook fizyka kwantowa kwantowe uwięzienie]]
 

@@ -46,5 +46,6 @@
 
 [[Obwód RC, stała czasowa obwodu]]
 
+[[Notebook elektro-magnetyczny]]
 
 

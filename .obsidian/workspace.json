@@ -11,6 +11,34 @@
             "id": "54ba5c930ef82cb7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka_egzamin/FIZYKA KWANTOWA/Model atomu Bohra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Model atomu Bohra"
+            }
+          },
+          {
+            "id": "c8b9075c6a3836ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fizyka_egzamin/FIZYKA KWANTOWA/FIZYKA KWANTOWA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FIZYKA KWANTOWA"
+            }
+          },
+          {
+            "id": "120de7a7cefba346",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -23,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
+                "file": "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Sinik elektryczny, prądnica, transformator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELEKRYCZNOŚĆ I MAGNETYZM"
+              "title": "Sinik elektryczny, prądnica, transformator"
             }
           },
           {
@@ -46,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,40 +266,42 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "19ed785346c94481",
+  "active": "e807a68bb5ffa660",
   "lastOpenFiles": [
-    "Notebook elektro-magnetyczny.md",
-    "Rezonans_w_obwodzie_RLC.mp4",
-    "Sekrety_prądu__Od_szumu_w_radiu_do_rezonansu_i_fal_Maxwella_w_o.m4a",
-    "Fizyka_egzamin/pdfs/Sekret_Rezonansu.mp4",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Cząstka w studni potencjału.md",
     "Fizyka_egzamin/FIZYKA KWANTOWA/FIZYKA KWANTOWA.md",
-    "Fizyka_egzamin/Notebook Fizyka kwantowa-jądrowa.md",
+    "Fizyka_egzamin/Notebook fizyka kwantowa kwantowe uwięzienie.md",
+    "Fizyka_egzamin/pdfs/Kwantowe_Uwięzienie.mp4",
+    "Fizyka_egzamin/pdfs/Cząstka_w_Pudełku__Jak_Model_Kwantowy_Zmienia_Nasze_Myślenie_o_.m4a",
+    "Fizyka_egzamin/Fundamentalny charakter falowej natury materii.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Model atomu Bohra.md",
+    "Fizyka_egzamin/Zadania z fizyki.md",
+    "Fizyka_egzamin/Zadania z egzaminów.md",
+    "Fizyka_egzamin/FIZYKA KWANTOWA/Efekt fotoelektryczny.md",
+    "Fizyka_egzamin/OPTYKA/Interferencja w cienkich warstwach, prążki Newtona.md",
+    "Fizyka_egzamin/OPTYKA/Dyfrakcja i interferencja światła na jednej szczelinie.md",
+    "Fizyka_egzamin/OPTYKA/Dyfrakcja i interferencja światła na dwóch szczelinach. Położenie maksimów i minimów.md",
+    "Fizyka_egzamin/OPTYKA/Lupa, aparat fotograficzny, luneta astronomiczna.md",
+    "Fizyka_egzamin/OPTYKA/Powstawanie obrazu przy użyciu soczewki; równania.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Równania Maxwella elektromagnetyzmu.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Napięcie i natężenie skuteczne oraz moc prądu sinusoidalnie zmiennego.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Obwód RLC z wymuszeniem; Rezonans.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Sinik elektryczny, prądnica, transformator.md",
+    "Fizyka_egzamin/fizyka_elektrycznosc.md",
+    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
+    "Równania różniczkowe/🧮 Równania różniczkowe - Hub główny.md",
+    "Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE/WŁASNOŚCI MAGNETYCZNE.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/ELEKRYCZNOŚĆ I MAGNETYZM.md",
+    "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Siła działająca między dwoma przewodnikami z prądem.md",
+    "ELEKTRONIKA/arduino_rpi_lab_notes.md",
+    "ELEKTRONIKA/Baterie i akumulatory.md",
+    "ELEKTRONIKA/Baterie LiPo.md",
+    "Fizyka_egzamin/pdfs/Rezonans_w_obwodzie_RLC.mp4",
+    "Fizyka_egzamin/pdfs/Sekrety_prądu__Od_szumu_w_radiu_do_rezonansu_i_fal_Maxwella_w_o.m4a",
+    "Fizyka_egzamin/pdfs/Sekret_Rezonansu.mp4",
     "Fizyka_egzamin/pdfs/NotebookLM-Mind-Map.svg",
     "Fizyka_egzamin/pdfs/NotebookLM Mind Map.png",
-    "Fizyka_egzamin/FIZYKA JĄDROWA/FIZYKA JĄDROWA.md",
-    "Fizyka_egzamin/FIZYKA JĄDROWA/Rozpady jądrowe.md",
     "Fizyka_egzamin/pdfs/Od_Atomu_po_Magnes__Kwantowa_Rewolucja_i_Tajemnice_Materii.m4a",
     "Fizyka_egzamin/pdfs/Rewolucja_Kwantowa.mp4",
-    "Fizyka_egzamin/FIZYKA JĄDROWA/Reakcje rozszczepienia i syntezy jąder - zastosowanie do produkcji energii.md",
-    "Fizyka_egzamin/FIZYKA JĄDROWA/Budowa jądra atomowego, defekt masy.md",
-    "Fizyka_egzamin/WŁASNOŚCI MAGNETYCZNE/Klasyfikacja ciał ze względu na własności magnetyczne.md",
-    "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/Nadprzewodniki.md",
-    "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/Zastosowania półprzewodników, przyrządy półprzewodnikowe.md",
-    "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/Przewodniki, izolatory, półprzewodniki.md",
-    "Fizyka_egzamin/ŚCIĄGA EGZAMINACYJNA.md",
-    "Fizyka_egzamin/FIZYKA CIAŁA STAŁEGO/FIZYKA CIAŁA STAŁEGO.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Równanie Schrödingera; własności funkcji falowej.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Relacja nieoznaczoności.md",
-    "Fizyka_egzamin/Zadania z egzaminów.md",
-    "Fizyka_egzamin/FIZYKA EGZAMIN.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Falowo- korpuskularne własności materii (hipoteza de Broglie'a) oraz promieniowania.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Model atomu Bohra.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Efekt fotoelektryczny.md",
-    "Fizyka_egzamin/FIZYKA KWANTOWA/Promieniowanie termiczne; prawo Stefana-Boltzmanna oraz przesunięć Wiena; teoria Plancka.md",
-    "Fizyka_egzamin/OPTYKA/OPTYKA.md",
-    "Fizyka_egzamin/OPTYKA/Natężenie, strumień światła, oświetlenie.md",
-    "Fizyka_egzamin/OPTYKA/Załamanie podwójne (dwójłomność).md",
     "Fizyka_egzamin/imgs/Pasted image 20250904040822.png",
     "Fizyka_egzamin/imgs/Pasted image 20250905025941.png",
     "Fizyka_egzamin/imgs/Pasted image 20250905025929.png",
@@ -283,8 +313,6 @@
     "Fizyka_egzamin/pdfs/amper_faraday.pdf",
     "ELEKTRONIKA/komponenty",
     "ELEKTRONIKA/praktyka",
-    "ELEKTRONIKA/podstawy_elektrotechniki",
-    "ELEKTRONIKA/bezpieczenstwo",
     "Fizyka_egzamin/ELEKRYCZNOŚĆ I MAGNETYZM/Untitled.canvas",
     "DATA SCIENCE + AI/Datacamp/Datacamp.canvas",
     "Fizyka_egzamin/Fizyka Egzamin.canvas"
