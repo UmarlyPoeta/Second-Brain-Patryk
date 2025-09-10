@@ -32,6 +32,10 @@
 
 [[Considerations for categorical data]]
 
+[[Understanding groupby]]
+
+[[Categories]]
+
 
 
 

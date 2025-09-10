@@ -125,3 +125,6 @@ $$η = \frac{P_{out}}{P_{in}} \times 100\%$$
 - **Napięcie jałowe:** Voc ≈ 0,6 V
 - **Prąd zwarcia:** Isc = 35 mA/cm²
 - **Sprawność:** η ≈ 18%
+
+![[polprzewodniki_przyrzady.pdf]]
+
