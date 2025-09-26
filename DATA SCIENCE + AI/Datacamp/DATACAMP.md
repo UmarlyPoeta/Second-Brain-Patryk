@@ -38,6 +38,7 @@
 
 [[Updating categories]]
 
+[[Updating and collapsing categories in Pandas]]
 
 
 
