@@ -178,8 +178,11 @@ Kliknij, aby odkryć:
 
 **Chcesz zobaczyć praktyczne zastosowania?** Sprawdź [[Modele wzrostu populacji]] lub [[Obwody elektryczne RLC]] - pokazują jak teoria przekłada się na rzeczywiste problemy.
 
+
+
 ---
+# NotebookLm
 
-*Hub utworzony: {{date}} | Ostatnia aktualizacja: {{date}}*
+- [[równania różniczkowe notebookLM]]
 
-**🎯 Cel:** Być Twoim przewodnikiem w świecie równań różniczkowych!
+---
