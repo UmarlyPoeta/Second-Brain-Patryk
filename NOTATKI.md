@@ -7,6 +7,9 @@
 ## 🔧 Systemy Wbudowane
 [[arduino_rpi_lab_notes|📚 Kompendium Systemów Wbudowanych]] - *Kompleksowa wiedza o Arduino, Raspberry Pi i embedded*
 
+## 🌐 Sieci Komputerowe
+[[SIECI KOMPUTEROWE|🌐 Sieci Komputerowe - Hub Główny]] - *Model OSI, protokoły, routing, bezpieczeństwo*
+
 ## Java + Web development
 [[JAVA]]
 [[Web Development]]
