@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Równania różniczkowe/równania różniczkowe notebookLM.md",
+                "file": "twierdzenie picarta i twierdzenie peano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "równania różniczkowe notebookLM"
+              "title": "twierdzenie picarta i twierdzenie peano"
             }
           }
         ],
@@ -256,9 +256,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d9a630c0e97ec78",
+  "active": "106781507b382b72",
   "lastOpenFiles": [
     "Równania różniczkowe/🧮 Równania różniczkowe - Hub główny.md",
+    "twierdzenie picarta i twierdzenie peano.md",
+    "Równania różniczkowe/Pierwszy rząd/Równania o zmiennych rozdzielonych.md",
+    "Równania różniczkowe/Pierwszy rząd/Równania Riccatiego.md",
+    "Równania różniczkowe/Podstawowe pojęcia/Warunki początkowe i brzegowe.md",
+    "Równania różniczkowe/Podstawowe pojęcia/Definicja równania różniczkowego.md",
+    "SIECI KOMPUTEROWE/model_osi_overview.md",
+    "SIECI KOMPUTEROWE/SIECI KOMPUTEROWE.md",
     "Równania różniczkowe/równania różniczkowe notebookLM.md",
     "Równania różniczkowe/Demistyfikacja_równań_różniczkowych.mp4",
     "Równania różniczkowe/Równania_Różniczkowe__Matematyczny_Język_Zmiany_–_Od_Wzrostu_Po.mp4",
@@ -276,15 +283,9 @@
     "Równania różniczkowe/Podstawowe pojęcia/Rozwiązania ogólne i szczególne.md",
     "Równania różniczkowe/Podstawowe pojęcia/Rząd i stopień równania różniczkowego.md",
     "Równania różniczkowe/Podstawowe pojęcia/Klasyfikacja równań różniczkowych.md",
-    "Równania różniczkowe/Podstawowe pojęcia/Definicja równania różniczkowego.md",
     "Równania różniczkowe/Zastosowania/Obwody elektryczne RLC.md",
     "ELEKTRONIKA/komponenty/diody.md",
     "ELEKTRONIKA/embedded_systems/pcb_komponenty_elektroniczne.md",
-    "ELEKTRONIKA/embedded_systems/pcb_podstawy.md",
-    "ELEKTRONIKA/embedded_systems/pcb_design.md",
-    "🧮 ALGORITHMS AND DATA STRUCTURES/algorithms_and_ds.md",
-    "🧮 ALGORITHMS AND DATA STRUCTURES/Data Structures/Arrays and Lists.md",
-    "Java + Webdevelopment/Web Development.md",
     "Fizyka_egzamin/pdfs/polprzewodniki_przyrzady.pdf",
     "Fizyka_egzamin/pdfs/Od_Krzemu_po_Lewitację__Fascynująca_Podróż_przez_Świat_Półprzew.m4a",
     "Fizyka_egzamin/pdfs/Nadprzewodniki,_Półprzewodniki_i_Polska_w_Globalnym_Wyścigu_o_C.m4a",

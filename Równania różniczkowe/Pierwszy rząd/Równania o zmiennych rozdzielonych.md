@@ -72,16 +72,6 @@ gdzie $C = \pm e^{C_1}$ to dowolna stała różna od zera.
 
 ## 📊 Algorytm rozpoznawania
 
-```mermaid
-graph TD
-    A[Równanie dy/dx = F(x,y)] --> B{Czy F(x,y) = f(x)·g(y)?}
-    B -->|Tak| C[Rozdziel zmienne]
-    B -->|Nie| D[Spróbuj przekształceń]
-    C --> E[Całkuj obie strony]
-    E --> F[Znajdź rozwiązanie]
-    D --> G[Użyj innych metod]
-```
-
 ## 🌟 Zastosowania praktyczne
 
 ### 1. Wzrost populacji

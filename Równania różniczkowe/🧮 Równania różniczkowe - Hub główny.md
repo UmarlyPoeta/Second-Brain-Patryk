@@ -13,6 +13,7 @@ Zacznij tutaj, aby zrozumieć fundamenty:
 - [[Rząd i stopień równania różniczkowego]] - Podstawowa charakteryzacja
 - [[Rozwiązania ogólne i szczególne]] - Typy rozwiązań
 - [[Warunki początkowe i brzegowe]] - Określanie rozwiązań jednoznacznych
+- [[twierdzenie picarta i twierdzenie peano]] - Istnienie i jednoznaczność rozwiązań
 
 ---
 
