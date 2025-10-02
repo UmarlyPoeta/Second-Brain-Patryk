@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "twierdzenie picarta i twierdzenie peano.md",
+                "file": "Równania różniczkowe/Podstawowe pojęcia/Rozwiązania ogólne i szczególne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "twierdzenie picarta i twierdzenie peano"
+              "title": "Rozwiązania ogólne i szczególne"
             }
           }
         ],
@@ -256,10 +256,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "106781507b382b72",
+  "active": "8d9a630c0e97ec78",
   "lastOpenFiles": [
     "Równania różniczkowe/🧮 Równania różniczkowe - Hub główny.md",
-    "twierdzenie picarta i twierdzenie peano.md",
+    "Równania różniczkowe/Podstawowe pojęcia/twierdzenie picarta i twierdzenie peano.md",
     "Równania różniczkowe/Pierwszy rząd/Równania o zmiennych rozdzielonych.md",
     "Równania różniczkowe/Pierwszy rząd/Równania Riccatiego.md",
     "Równania różniczkowe/Podstawowe pojęcia/Warunki początkowe i brzegowe.md",
