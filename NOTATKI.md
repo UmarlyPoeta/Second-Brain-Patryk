@@ -14,6 +14,9 @@
 [[JAVA]]
 [[Web Development]]
 
+## 🌐 Web APIs
+[[web_apis_module|🌐 Web APIs - Moduł Główny]] - *REST, GraphQL, WebSockets, gRPC, Security, Best Practices*
+
 # Równania Różniczkowe
 [[🧮 Równania różniczkowe - Hub główny]]
 
